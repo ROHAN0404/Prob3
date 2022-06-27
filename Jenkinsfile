@@ -1,7 +1,7 @@
 
 pipeline{
 environment{
-reg = "rohan040420/PROB3"
+reg = "rohan040420/prob"
 regCre = "docker_id"
 dockerImg = ""
 }
